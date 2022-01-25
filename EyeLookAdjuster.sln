@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EyeLookAdjuster", "EyeLookAdjuster\EyeLookAdjuster.shproj", "{DF73BC4A-E3BF-4992-B448-E2EC235D893F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS2_EyeLookAdjuster", "HS2_EyeLookAdjuster\HS2_EyeLookAdjuster.csproj", "{F87A768D-4E70-42A6-B515-0887D59CE79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_EyeLookAdjuster", "AI_EyeLookAdjuster\AI_EyeLookAdjuster.csproj", "{C58A8C52-63C7-4EF9-B174-761A87583BCD}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		EyeLookAdjuster\EyeLookAdjuster.projitems*{c58a8c52-63c7-4ef9-b174-761a87583bcd}*SharedItemsImports = 4
+		EyeLookAdjuster\EyeLookAdjuster.projitems*{df73bc4a-e3bf-4992-b448-e2ec235d893f}*SharedItemsImports = 13
+		EyeLookAdjuster\EyeLookAdjuster.projitems*{f87a768d-4e70-42a6-b515-0887d59ce79f}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87A768D-4E70-42A6-B515-0887D59CE79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87A768D-4E70-42A6-B515-0887D59CE79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87A768D-4E70-42A6-B515-0887D59CE79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87A768D-4E70-42A6-B515-0887D59CE79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58A8C52-63C7-4EF9-B174-761A87583BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58A8C52-63C7-4EF9-B174-761A87583BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58A8C52-63C7-4EF9-B174-761A87583BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58A8C52-63C7-4EF9-B174-761A87583BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267A1A34-31AF-4A07-960A-1DE0969D7658}
+	EndGlobalSection
+EndGlobal
