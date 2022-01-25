@@ -18,6 +18,8 @@ Eye Modes - For Reference (Plugin doesn't change anything here, just listing for
 - Fixed: Character look position is locked into whatever it currently is.
 - Adjust: Similar to follow but the character looks at an adjustable gimmick that can be positioned in Studio.
 
+Note: when using Hooh's Look Hijack the Hijack uses the Follow mode and Follow mode settings instead of the shown selected mode.
+
 In studio there is a new UI to allow the settings to be adjusted on a per character basis. Once adjusted they are saved to the scene.
 
 ![Studio GUI!](https://raw.githubusercontent.com/OrangeSpork/EyeLookAdjuster/master/EyeLookAdjuster/StudioGUIExample.png)
